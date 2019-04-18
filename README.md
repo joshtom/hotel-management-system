@@ -24,7 +24,7 @@ git clone <CLONE_URL>
 Copy into folder such as C:\xampp\htdocs/HotelManagement
 
 ```
-
+C:\xampp\htdocs/HotelManagement
 ```
 
 ```
